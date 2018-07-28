@@ -1,5 +1,10 @@
-Personal website created using HTML/CSS
+# Edward Sa's Personal Website
 
-Bootstrap credits to HTML5UP (https://html5up.net/)
+This was my first project I started in order to learn basic HTML/CSS and Bootstrap. Updating information on the website ever so often.
 
-Still working in progress
+## Links
+
+ Feel free to contact me or check out my content!
+
+* [LinkedIn](https://www.linkedin.com/in/edwardbsa/)
+* [YouTube](https://www.youtube.com/user/IngeniousEdits)
